@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid  d-flex flex-column justify-content-center min-vh-100"> 
+  <div class="container-fluid  d-flex flex-column justify-content-center min-vh-100 py-32"> 
     <div class="container ">
       <h1
         class="fs-24 fs-md-32 fs-lg-64 border-dark border-3 border-top border-bottom py-16 mb-24 text-center fw-bold"
