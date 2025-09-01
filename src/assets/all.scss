@@ -1,0 +1,6 @@
+// Option B: Include parts of Bootstrap
+// 引入 Bootstrap 5
+// 2. Include any default variable overrides here
+@import "bootstrap/scss/functions";
+@import './abstracts/variables';
+@import 'bootstrap/scss/bootstrap.scss';
